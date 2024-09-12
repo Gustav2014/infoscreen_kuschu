@@ -6,7 +6,10 @@ https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/41291
 #Crossing Strings
 #Kay Ray
 #Khalil Kry und Band
+#
 #OKTOBER
+#Uebersicht
+https://1drv.ms/i/s!AsLrdRpnEtiRhr1iL-dHJLJWA6bOXg?e=c1JhRH
 #Arne Tiedemann 2.
 https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/41342
 #Lilo Wanders 4.
@@ -20,9 +23,10 @@ https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/38820
 #Johannes Kirchberg 17.
 #Reggae Night 18.
 https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/41336
+#
 #NOVEMBER
-#ÜBERSICHT
-#Gloria Glamour 2.
+#UEBERSICHT
+https://1drv.ms/i/s!AsLrdRpnEtiRhr1jqnppPpf5W_hWAg?e=RyqfYP
 #Sehnsuchtslieder 7.
 #Simon Kempton 7.
 #Jens Wawrczeck 8.
@@ -37,8 +41,10 @@ https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/41336
 #Katalyn Hühnerfeld 22.
 #Back To School 29.
 #Weihnachtsmarkt Tag 2 30.
+#
 #DEZEMBER
-#Übersicht
+#Uebersicht
+https://1drv.ms/i/s!AsLrdRpnEtiRhr1hYvCK6oUou1mXdw?e=2S92g5
 #PIAF 5.
 #https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/41327
 #Kay Ray 6.
@@ -48,6 +54,3 @@ https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/41336
 #Buddy forever 14.
 #Elton John 20.
 #https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/41285
-#Weihnachtsgruß
-#2025
-#Januar
