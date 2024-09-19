@@ -1,12 +1,3 @@
-#Sideways
-https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/38775
-#Babyboomer
-https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/41291
-#Jon Flemming Olsen
-#Crossing Strings
-#Kay Ray
-#Khalil Kry und Band
-#
 #OKTOBER
 #Uebersicht
 https://1drv.ms/i/s!AsLrdRpnEtiRhr1iL-dHJLJWA6bOXg?e=c1JhRH
