@@ -4,9 +4,6 @@ https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/45854
 https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/45851
 #
 #DEZEMBER
-https://directus.theyoungrevolution.de/assets/0f327cd8-f66f-4614-a04f-8d14a736b0b5?key=avif1200
-#https://photos.onedrive.com/share/91D812671A75EBC2!129436?cid=91D812671A75EBC2&resId=91D812671A75EBC2!129436&authkey=!APTs7r406AH9L0c&ithint=photo&e=xVzPTx
-#https://1drv.ms/i/s!AsLrdRpnEtiRh_Mc9OzuvjToAf0vRw?e=xVzPTx
 #Uebersicht
 https://1drv.ms/i/s!AsLrdRpnEtiRh_MZ8GhNGTDcrVNd2A?e=MGdDRa
 #PIAF 5.
