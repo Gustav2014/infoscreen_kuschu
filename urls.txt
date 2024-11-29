@@ -30,8 +30,8 @@ https://kuschu.nas64.de:443/share.cgi?ssid=dbb292be6726484ca84ac360ffd049de
 https://kuschu.nas64.de:443/share.cgi?ssid=4fe1967872614f6595890825d7b78cb7
 #https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46124
 #Max Beier 23.
-#
-https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/42194
+https://kuschu.nas64.de:443/share.cgi?ssid=d396b7be5f9f469ea92fcdf6080a7d6c
+#https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/42194
 #Kay Ray 24.
 https://kuschu.nas64.de:443/share.cgi?ssid=99c41750e3084090a24355eed6be97bb
 #Lagerfeuerotz 25.
