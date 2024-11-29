@@ -71,6 +71,7 @@ https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46073
 #Linebug 20
 #NICHT VORHANDEN
 #the LineWalkers 21.
+#https://1drv.ms/i/s!AsLrdRpnEtiRh_M-2IuK03i39DGINQ
 #NICHT VORHANDEN
 #Dick im Geschäft 22.
 #https://1drv.ms/i/s!AsLrdRpnEtiRh_MrEOx5qUB76URUMg
@@ -81,6 +82,7 @@ https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46568
 #https://1drv.ms/i/s!AsLrdRpnEtiRh_M7tGQa__8IQynzig
 https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/45983
 #The Silverettes 29
+#https://1drv.ms/i/s!AsLrdRpnEtiRh_M_xOQ5czfV5VJBUA
 #NICHT VORHANDEN
 
 
