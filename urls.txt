@@ -62,29 +62,28 @@ https://kuschu.nas64.de:443/share.cgi?ssid=bab9f77fff05469ea4485fe2fd7df2ec
 #
 #MÄRZ
 #Maladee
-https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/42182
+https://kuschu.nas64.de:443/share.cgi?ssid=a301edb35cdb464f9fc998d7c26e72ca
+#https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/42182
 #Gymmick & die Erben 07.
 https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46073
 #DUTONE 08.
 #NICHT VORHANDEN
 #Micha Schlüter 13.
-#NICHT VORHANDEN
+https://kuschu.nas64.de:443/share.cgi?ssid=3c632029000e4ea69d1c3bbef0bff81f
 #Cody Stone 14.
-#https://1drv.ms/i/s!AsLrdRpnEtiRh_M4VVFGPX4uH9dVtw
-#NICHT VORHANDEN
+https://kuschu.nas64.de:443/share.cgi?ssid=f17ba1aded134a8b8e7fce0913ebc940
 #Linebug 20
-#NICHT VORHANDEN
+https://kuschu.nas64.de:443/share.cgi?ssid=88689cb4fc084bf2ae0080ca3d92a444
 #the LineWalkers 21.
-#https://1drv.ms/i/s!AsLrdRpnEtiRh_M-2IuK03i39DGINQ
-#NICHT VORHANDEN
+https://kuschu.nas64.de:443/share.cgi?ssid=14122e1db1734e24b68e5cc66e8e5e3f
 #Dick im Geschäft 22.
-#https://1drv.ms/i/s!AsLrdRpnEtiRh_MrEOx5qUB76URUMg
-https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46583
+https://kuschu.nas64.de:443/share.cgi?ssid=425a0654001441ec8f41f215c7f0bacc
+#https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46583
 #Sarah Macdougall 26.
-https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46568
+https://kuschu.nas64.de:443/share.cgi?ssid=4095b8b6108b451f9e643bb7dad1297c
+#https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46568
 #Hein Erhardt 27.
-#https://1drv.ms/i/s!AsLrdRpnEtiRh_M7tGQa__8IQynzig
-https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/45983
+https://kuschu.nas64.de:443/share.cgi?ssid=be9619b589ed4a928304424d4e7fcfc4
+#https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/45983
 #The Silverettes 29
-#https://1drv.ms/i/s!AsLrdRpnEtiRh_M_xOQ5czfV5VJBUA
-#NICHT VORHANDEN
+https://kuschu.nas64.de:443/share.cgi?ssid=7ee1d9680cb042538b0380f655f50ac2
