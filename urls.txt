@@ -24,66 +24,66 @@ https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/41285
 #
 #JANUAR
 #SOFIA TALVIK 16.
-https://kuschu.nas64.de:443/share.cgi?ssid=dbb292be6726484ca84ac360ffd049de
+http://kuschu.nas64.de:443/share.cgi?ssid=dbb292be6726484ca84ac360ffd049de
 #https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46820
 #Conner Kelly 18.
-https://kuschu.nas64.de:443/share.cgi?ssid=4fe1967872614f6595890825d7b78cb7
+http://kuschu.nas64.de:443/share.cgi?ssid=4fe1967872614f6595890825d7b78cb7
 #https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46124
 #Max Beier 23.
-https://kuschu.nas64.de:443/share.cgi?ssid=d396b7be5f9f469ea92fcdf6080a7d6c
+http://kuschu.nas64.de:443/share.cgi?ssid=d396b7be5f9f469ea92fcdf6080a7d6c
 #https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/42194
 #Kay Ray 24.
-https://kuschu.nas64.de:443/share.cgi?ssid=99c41750e3084090a24355eed6be97bb
+http://kuschu.nas64.de:443/share.cgi?ssid=99c41750e3084090a24355eed6be97bb
 #Lagerfeuerotz 25.
-https://kuschu.nas64.de:443/share.cgi?ssid=d8582cf52f27407fb831ff8e18d3ffe2
+http://kuschu.nas64.de:443/share.cgi?ssid=d8582cf52f27407fb831ff8e18d3ffe2
 #https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46811
 #Alabama Hot Six 30.
-https://kuschu.nas64.de:443/share.cgi?ssid=8fca2a12653d4031877113d3b1df6349
+http://kuschu.nas64.de:443/share.cgi?ssid=8fca2a12653d4031877113d3b1df6349
 #https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/45659
 #
 #FEBRUAR
 #Jonny Campbell 04.
 #NICHT VORHANDEN
 #Hathors 07.
-https://kuschu.nas64.de:443/share.cgi?ssid=66e197375cd24c59b35f774643653f32
+http://kuschu.nas64.de:443/share.cgi?ssid=66e197375cd24c59b35f774643653f32
 #Between the 80ties 08.
-https://kuschu.nas64.de:443/share.cgi?ssid=23f066cb896746e780172a924dd36d13
+http://kuschu.nas64.de:443/share.cgi?ssid=23f066cb896746e780172a924dd36d13
 #Murzarella 14.
-https://kuschu.nas64.de:443/share.cgi?ssid=b89808ddcadc4fe5ac231d7205a38cc5
+http://kuschu.nas64.de:443/share.cgi?ssid=b89808ddcadc4fe5ac231d7205a38cc5
 #https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/45980
 #Poetry Slam 20
 #NICHT VORHANDEN
 #Erleuchtet 21.
-https://kuschu.nas64.de:443/share.cgi?ssid=a60c0ae96d2542c8b1cdfd4bcbd59ec0
+http://kuschu.nas64.de:443/share.cgi?ssid=a60c0ae96d2542c8b1cdfd4bcbd59ec0
 #https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/47078
 #PSYCHO SEXY 22.
-https://kuschu.nas64.de:443/share.cgi?ssid=bab9f77fff05469ea4485fe2fd7df2ec
+http://kuschu.nas64.de:443/share.cgi?ssid=bab9f77fff05469ea4485fe2fd7df2ec
 #https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/42197
 #
 #MÄRZ
 #Maladee
-https://kuschu.nas64.de:443/share.cgi?ssid=a301edb35cdb464f9fc998d7c26e72ca
+http://kuschu.nas64.de:443/share.cgi?ssid=a301edb35cdb464f9fc998d7c26e72ca
 #https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/42182
 #Gymmick & die Erben 07.
-https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46073
+http://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46073
 #DUTONE 08.
 #NICHT VORHANDEN
 #Micha Schlüter 13.
-https://kuschu.nas64.de:443/share.cgi?ssid=3c632029000e4ea69d1c3bbef0bff81f
+http://kuschu.nas64.de:443/share.cgi?ssid=3c632029000e4ea69d1c3bbef0bff81f
 #Cody Stone 14.
-https://kuschu.nas64.de:443/share.cgi?ssid=f17ba1aded134a8b8e7fce0913ebc940
+http://kuschu.nas64.de:443/share.cgi?ssid=f17ba1aded134a8b8e7fce0913ebc940
 #Linebug 20
-https://kuschu.nas64.de:443/share.cgi?ssid=88689cb4fc084bf2ae0080ca3d92a444
+http://kuschu.nas64.de:443/share.cgi?ssid=88689cb4fc084bf2ae0080ca3d92a444
 #the LineWalkers 21.
-https://kuschu.nas64.de:443/share.cgi?ssid=14122e1db1734e24b68e5cc66e8e5e3f
+http://kuschu.nas64.de:443/share.cgi?ssid=14122e1db1734e24b68e5cc66e8e5e3f
 #Dick im Geschäft 22.
-https://kuschu.nas64.de:443/share.cgi?ssid=425a0654001441ec8f41f215c7f0bacc
+http://kuschu.nas64.de:443/share.cgi?ssid=425a0654001441ec8f41f215c7f0bacc
 #https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46583
 #Sarah Macdougall 26.
-https://kuschu.nas64.de:443/share.cgi?ssid=4095b8b6108b451f9e643bb7dad1297c
+http://kuschu.nas64.de:443/share.cgi?ssid=4095b8b6108b451f9e643bb7dad1297c
 #https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46568
 #Hein Erhardt 27.
-https://kuschu.nas64.de:443/share.cgi?ssid=be9619b589ed4a928304424d4e7fcfc4
+http://kuschu.nas64.de:443/share.cgi?ssid=be9619b589ed4a928304424d4e7fcfc4
 #https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/45983
 #The Silverettes 29
-https://kuschu.nas64.de:443/share.cgi?ssid=7ee1d9680cb042538b0380f655f50ac2
+http://kuschu.nas64.de:443/share.cgi?ssid=7ee1d9680cb042538b0380f655f50ac2
