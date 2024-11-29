@@ -1,4 +1,5 @@
 https://192.168.178.82:443/share.cgi?ssid=b44ffb534b134e5aa70565074bcb5b82
+https://kuschu.nas64.de:443/share.cgi?ssid=b346c987873e4d2f897eb356ce0792a7
 #NOVEMBER
 #Back To School 29.
 https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/45854
