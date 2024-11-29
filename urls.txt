@@ -1,5 +1,5 @@
 #EXTERNE PLAKATE
-http://kuschu.nas64.de/share.cgi?ssid=bbc776677b7a4091a62c663001f762c5
+http://kuschu.nas64.de:443/share.cgi?ssid=bbc776677b7a4091a62c663001f762c5
 #
 #NOVEMBER
 #Back To School 29.
