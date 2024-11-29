@@ -2,8 +2,6 @@
 https://kuschu.nas64.de:443/share.cgi?ssid=ee703d42e9d5457c89ede8d4e14f96d7
 #
 #NOVEMBER
-#Back To School 29.
-https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/45854
 #Weihnachtsmarkt Tag 2 30.
 https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/45851
 #
