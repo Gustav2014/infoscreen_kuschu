@@ -1,6 +1,7 @@
 #EXTERNE PLAKATE
 #http://kuschu.nas64.de:443/share.cgi?ssid=bbc776677b7a4091a62c663001f762c5
-http://kuschu.nas64.de:443/share.cgi?ssid=79e65d95bda24c9c88be57ab48112255&openfolder=normal&ep=&_dc=1732904145053&fid=79e65d95bda24c9c88be57ab48112255
+https://kuschu.nas64.de:443/share.cgi?func=download&ssid=79e65d95bda24c9c88be57ab48112255&openfolder=normal&ep=&_dc=1732904145053&fid=79e65d95bda24c9c88be57ab48112255
+#http://kuschu.nas64.de:443/share.cgi?ssid=79e65d95bda24c9c88be57ab48112255&openfolder=normal&ep=&_dc=1732904145053&fid=79e65d95bda24c9c88be57ab48112255
 #
 #NOVEMBER
 #Back To School 29.
@@ -10,7 +11,7 @@ https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/45851
 #
 #DEZEMBER
 #Uebersicht
-http://kuschu.nas64.de:443/share.cgi?ssid=be9b620ee3fa410785711e58e8c258ee&openfolder=normal&ep=&_dc=1732904352942&fid=be9b620ee3fa410785711e58e8c258ee
+http://kuschu.nas64.de:443/share.cgi?func=download&ssid=be9b620ee3fa410785711e58e8c258ee&openfolder=normal&ep=&_dc=1732904352942&fid=be9b620ee3fa410785711e58e8c258ee
 #http://kuschu.nas64.de:443/share.cgi?ssid=be9b620ee3fa410785711e58e8c258ee
 #PIAF 5.
 https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/41327
