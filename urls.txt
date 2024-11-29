@@ -1,5 +1,5 @@
 #EXTERNE PLAKATE
-#https://1drv.ms/i/s!AsLrdRpnEtiRh_Mc9OzuvjToAf0vRw
+https://kuschu.nas64.de:443/share.cgi?ssid=ee703d42e9d5457c89ede8d4e14f96d7
 #
 #NOVEMBER
 #Back To School 29.
@@ -9,7 +9,7 @@ https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/45851
 #
 #DEZEMBER
 #Uebersicht
-#https://1drv.ms/i/s!AsLrdRpnEtiRh_MZ8GhNGTDcrVNd2A?e=MGdDRa
+https://kuschu.nas64.de:443/share.cgi?ssid=be9b620ee3fa410785711e58e8c258ee
 #PIAF 5.
 https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/41327
 #Kay Ray 6.
@@ -24,37 +24,41 @@ https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/41285
 #
 #JANUAR
 #SOFIA TALVIK 16.
-https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46820
+https://kuschu.nas64.de:443/share.cgi?ssid=dbb292be6726484ca84ac360ffd049de
+#https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46820
 #Conner Kelly 18.
-https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46124
+https://kuschu.nas64.de:443/share.cgi?ssid=4fe1967872614f6595890825d7b78cb7
+#https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46124
 #Max Beier 23.
+#
 https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/42194
 #Kay Ray 24.
-#NICHT VORHANDEN
+https://kuschu.nas64.de:443/share.cgi?ssid=99c41750e3084090a24355eed6be97bb
 #Lagerfeuerotz 25.
-https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46811
+https://kuschu.nas64.de:443/share.cgi?ssid=d8582cf52f27407fb831ff8e18d3ffe2
+#https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46811
 #Alabama Hot Six 30.
-#https://1drv.ms/i/s!AsLrdRpnEtiRh_M5o0O5yGeDf8NB2g
-https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/45659
+https://kuschu.nas64.de:443/share.cgi?ssid=8fca2a12653d4031877113d3b1df6349
+#https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/45659
 #
 #FEBRUAR
 #Jonny Campbell 04.
 #NICHT VORHANDEN
 #Hathors 07.
-#https://1drv.ms/i/s!AsLrdRpnEtiRh_M6fDu7VQVSp5UCzA
-#NICHT VORHANDEN
+https://kuschu.nas64.de:443/share.cgi?ssid=66e197375cd24c59b35f774643653f32
 #Between the 80ties 08.
-#NICHT VORHANDEN
+https://kuschu.nas64.de:443/share.cgi?ssid=23f066cb896746e780172a924dd36d13
 #Murzarella 14.
-https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/45980
+https://kuschu.nas64.de:443/share.cgi?ssid=b89808ddcadc4fe5ac231d7205a38cc5
+#https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/45980
 #Poetry Slam 20
 #NICHT VORHANDEN
 #Erleuchtet 21.
-#https://1drv.ms/i/s!AsLrdRpnEtiRh_M3tw1C-UFbPrz3TA
-https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/47078
+https://kuschu.nas64.de:443/share.cgi?ssid=a60c0ae96d2542c8b1cdfd4bcbd59ec0
+#https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/47078
 #PSYCHO SEXY 22.
-#https://1drv.ms/i/s!AsLrdRpnEtiRh_M8S4oDSphsB2hAsw
-https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/42197
+https://kuschu.nas64.de:443/share.cgi?ssid=bab9f77fff05469ea4485fe2fd7df2ec
+#https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/42197
 #
 #MÄRZ
 #Maladee
