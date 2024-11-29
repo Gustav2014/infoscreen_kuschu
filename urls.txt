@@ -1,4 +1,5 @@
 #EXTERNE PLAKATE
+http://kuschu.nas64.de:8080/share.cgi?ssid=260b03f6e0fa4adaa1f2c9d42a29740c
 https://kuschu.nas64.de:443/share.cgi?ssid=ee703d42e9d5457c89ede8d4e14f96d7
 #
 #NOVEMBER
@@ -9,7 +10,7 @@ https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/45851
 #
 #DEZEMBER
 #Uebersicht
-https://kuschu.nas64.de:443/share.cgi?ssid=be9b620ee3fa410785711e58e8c258ee
+http://kuschu.nas64.de:443/share.cgi?ssid=be9b620ee3fa410785711e58e8c258ee
 #PIAF 5.
 https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/41327
 #Kay Ray 6.
