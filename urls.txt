@@ -7,10 +7,6 @@
 #Uebersicht
 #http://kuschu.nas64.de:443/share.cgi?func=download&ssid=be9b620ee3fa410785711e58e8c258ee&openfolder=normal&ep=&_dc=1732904352942&fid=be9b620ee3fa410785711e58e8c258ee
 #http://kuschu.nas64.de:443/share.cgi?ssid=be9b620ee3fa410785711e58e8c258ee
-#Kay Ray 6.
-https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/41333
-#Kai und Funky von Ton Steine Scherben feat. Birte Volta
-https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46082
 #Wienerkneipenabend 12.
 https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46895
 #Buddy forever 14.
