@@ -55,8 +55,6 @@ https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/42197
 #Maladee
 #http://kuschu.nas64.de:443/share.cgi?ssid=a301edb35cdb464f9fc998d7c26e72ca
 https://backend.leoticket.de/api/public/v1/files/scaled/IMG600/42182
-#Gymmick & die Erben 07.
-#http://backend.leoticket.de/api/public/v1/files/scaled/IMG600/46073
 #DUTONE 08.
 #NICHT VORHANDEN
 #Micha Schlüter 13.
